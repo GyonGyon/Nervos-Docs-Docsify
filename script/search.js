@@ -5,7 +5,7 @@ var search = {
     //   '/', // => /README.md
     //   // '/guide', // => /guide.md
     //   // '/get-started', // => /get-started.md
-    //   '/zh-cn/', // => /zh-cn/README.md
+    //   '/zh-CN/', // => /zh-CN/README.md
     // ],
   
     // 完整配置参数
@@ -17,14 +17,14 @@ var search = {
   
       // 支持本地化
       placeholder: {
-        '/zh-cn/': '搜索',
+        '/zh-CN/': '搜索',
         '/': 'Type to search',
       },
   
   
       // 支持本地化
       noData: {
-        '/zh-cn/': '找不到结果',
+        '/zh-CN/': '找不到结果',
         '/': 'No Results',
       },
   
