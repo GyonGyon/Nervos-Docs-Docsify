@@ -13,7 +13,7 @@ var common = {
 //   coverpage: true,
 //   coverpage: 'nervos.md',
 
-  basePath: '../docs/'
+  basePath: './docs/'
 //   basePath: 'https://raw.githubusercontent.com/',
 
     // alias: {
